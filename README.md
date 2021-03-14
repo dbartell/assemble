@@ -19,10 +19,6 @@ Choose a style framework (e.g Bootstrap) and add responsive styles to the react 
 Update the project README.md with instructions on how to install and run your app.
 Please do not spend more than 3 hours on this exercise, we are looking on how you approach the problem and how all the pieces fit in your solution. Feel free to provide comments explaining trade-offs you had to make, as well as code pieces that you didn’t have the time to implement.
 
-## Submitting
-
-Each one of the previous 3 steps should be submitted as a pull request in your private GitHub repository of your preference. Please invite assemble-engineering to the repository when you are done and send an email to techscreen@assembleinc.com with a link to your repo, and any additional comments you want to provide.
-
 ## Bonuses
 
 Write the application in typescript.
