@@ -1,4 +1,13 @@
-# Introduction
+# Instructions
+
+```ssh
+git clone https://github.com/dbartell/assemble.git
+cd assemble
+yarn install
+yarn start
+```
+
+## Introduction
 
 Assume that you are tasked to create a checkout flow for an online retail store and you are given the following code as a starting point for the store:
 
